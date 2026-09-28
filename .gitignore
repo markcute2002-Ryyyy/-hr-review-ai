@@ -1,0 +1,20 @@
+# API keys / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if any are created inside the project)
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
